@@ -1,0 +1,18 @@
+{
+    "accountAssociation": {
+        "header": "eyJmaWQiOiA4ODcyLCAidHlwZSI6ICJjdXN0b2R5IiwgImtleSI6ICIweDcwN0U4MTMwMjQzMDBmOTMwMjQzMDBmOTMwMjQzMDBmOTMwMjQzIn0",
+        "payload": "eyJkb21haW4iOiAiYmFzZXN0eWxlLWxhYi52ZXJjZWwuYXBwIn0",
+        "signature": "MHhm..."
+    },
+    "frame": {
+        "version": "1",
+        "name": "BaseStyle Lab",
+        "iconUrl": "https://basestyle-lab.vercel.app/icon.png",
+        "homeUrl": "https://basestyle-lab.vercel.app",
+        "imageUrl": "https://basestyle-lab.vercel.app/api/og",
+        "buttonTitle": "Open Lab",
+        "splashImageUrl": "https://basestyle-lab.vercel.app/splash.png",
+        "splashBackgroundColor": "#000000",
+        "webhookUrl": "https://basestyle-lab.vercel.app/api/webhook"
+    }
+}
